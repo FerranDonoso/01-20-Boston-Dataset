@@ -1,3 +1,3 @@
-# 02-2020-Boston-Dataset
+# Boston House Prices
 
-A regression analysis to predict the profit of new products
+A regression analysis to predict the house prices in Boston
